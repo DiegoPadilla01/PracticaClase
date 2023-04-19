@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\DAW\TECNM.PRACTICA1\TecNM.Ecommerce.Core\bin\Debug\net6.0\TecNM.Ecommerce.Core.deps.json
+C:\Users\admin\Desktop\DAW\TECNM.PRACTICA1\TecNM.Ecommerce.Core\bin\Debug\net6.0\TecNM.Ecommerce.Core.dll
+C:\Users\admin\Desktop\DAW\TECNM.PRACTICA1\TecNM.Ecommerce.Core\bin\Debug\net6.0\TecNM.Ecommerce.Core.pdb
+C:\Users\admin\Desktop\DAW\TECNM.PRACTICA1\TecNM.Ecommerce.Core\obj\Debug\net6.0\TecNM.Ecommerce.Core.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\DAW\TECNM.PRACTICA1\TecNM.Ecommerce.Core\obj\Debug\net6.0\TecNM.Ecommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\DAW\TECNM.PRACTICA1\TecNM.Ecommerce.Core\obj\Debug\net6.0\TecNM.Ecommerce.Core.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\DAW\TECNM.PRACTICA1\TecNM.Ecommerce.Core\obj\Debug\net6.0\TecNM.Ecommerce.Core.AssemblyInfo.cs
+C:\Users\admin\Desktop\DAW\TECNM.PRACTICA1\TecNM.Ecommerce.Core\obj\Debug\net6.0\TecNM.Ecommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DAW\TECNM.PRACTICA1\TecNM.Ecommerce.Core\obj\Debug\net6.0\TecNM.Ecommerce.Core.dll
+C:\Users\admin\Desktop\DAW\TECNM.PRACTICA1\TecNM.Ecommerce.Core\obj\Debug\net6.0\refint\TecNM.Ecommerce.Core.dll
+C:\Users\admin\Desktop\DAW\TECNM.PRACTICA1\TecNM.Ecommerce.Core\obj\Debug\net6.0\TecNM.Ecommerce.Core.pdb
+C:\Users\admin\Desktop\DAW\TECNM.PRACTICA1\TecNM.Ecommerce.Core\obj\Debug\net6.0\ref\TecNM.Ecommerce.Core.dll
